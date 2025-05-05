@@ -1,1 +1,1 @@
-# SolarSeer
+The code for SolarSeer is coming soon.
