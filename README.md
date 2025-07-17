@@ -15,5 +15,5 @@ To run the inference code, please follow the steps below:
    The input file is available at [BaiduDisk] (https://pan.baidu.com/s/1i91AQ01BJhuW1BYkpES19Q).
    The weight file is available at [BaiduDisk] (https://pan.baidu.com/s/1QzEO_in6k9IekGcfp8qTCA).
    For the password of these files, please contact mingliangbai@outlook.com. 
-4. Install packages using the command ```pip install -r requirement ``` .
+4. Install packages using the command ```pip install -r requirement.txt ``` .
 5. Run the 'inference.py' file. The generated forecasts will be saved in 'results' folder.
