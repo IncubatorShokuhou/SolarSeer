@@ -1,6 +1,6 @@
 SolarSeer is an end-to-end AI model for 24-hour-ahead solar irradiance forecasting across the USA. The network input is the past 6-hour 
 satellite observations and the future 24-hour clear-sky solar irradiance, where clear-sky solar irradiance is a function of latitude, 
-longtitude and time. The network output is the future 24-hour-ahead solar irradiance forecasts. SolarSeer can serves as a foundation 
+longtitude and time. The network output is the future 24-hour-ahead solar irradiance forecasts. SolarSeer can serve as a foundation 
 model for solar PV power generation forecasting. 
 
 <img width="514" height="567" alt="image" src="https://github.com/user-attachments/assets/a8621cc2-e80b-4b3a-bbb2-a3eb03ca55c6" />
