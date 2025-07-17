@@ -35,7 +35,7 @@ Inference
 ---
 To run the inference code, please follow the steps below:
 
-1. Download the pretraied network weights and put it in the "weight" folder.
+1. Download the pretrained network weights and put it in the "weight" folder.
 2. Download the network input, namely "satellite.npy" and "clearghi.npy". Put the two files in the "input" folder.
    The input file is available at [BaiduDisk] (https://pan.baidu.com/s/1i91AQ01BJhuW1BYkpES19Q).
    The pretrained weight file is available at [BaiduDisk] (https://pan.baidu.com/s/1QzEO_in6k9IekGcfp8qTCA).
