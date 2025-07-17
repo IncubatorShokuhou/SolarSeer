@@ -1,6 +1,6 @@
 SolarSeer
 ---
-This repository contains the code used for "Ultrafast and accurate 24-hour solar irradiance forecasts
+This repository contains the code used for the paper entitled "Ultrafast and accurate 24-hour solar irradiance forecasts
 outperforming numerical weather prediction across the USA"
 
 Abstract
