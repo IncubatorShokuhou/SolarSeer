@@ -3,7 +3,10 @@ satellite observations and the future 24-hour clear-sky solar irradiance, where 
 longtitude and time. The network output is the future 24-hour-ahead solar irradiance forecasts. SolarSeer can serve as a foundation 
 model for solar PV power generation forecasting. 
 
+The network structure of SolarSeer is as follows:
 <img width="514" height="567" alt="image" src="https://github.com/user-attachments/assets/a8621cc2-e80b-4b3a-bbb2-a3eb03ca55c6" />
+
+For the network of SolarSeer, see 'network/SolarSeerNet.py'.
 
 To run the inference code, please follow the steps below:
 
