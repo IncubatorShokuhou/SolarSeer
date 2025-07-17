@@ -1,9 +1,10 @@
 SolarSeer
-
+---
 This repository contains the code used for "Ultrafast and accurate 24-hour solar irradiance forecasts
 outperforming numerical weather prediction across the USA"
 
 Abstract
+---
 Accurate 24-hour solar irradiance forecasting is essential for the safe and economic operation of solar
 photovoltaic systems. Traditional numerical weather prediction (NWP) models represent the state-of-the-art in
 forecasting performance but rely on computationally costly data assimilation and solving complicated partial
@@ -20,17 +21,18 @@ accuracy. SolarSeer’s ultrafast, accurate 24-hour solar irradiance forecasts p
 to sustainable, net-zero energy systems.
 
 Network
+---
 SolarSeer is an end-to-end AI model for 24-hour-ahead solar irradiance forecasting across the USA. The network input is the past 6-hour 
 satellite observations and the future 24-hour clear-sky solar irradiance, where clear-sky solar irradiance is a function of latitude, 
 longtitude and time. The network output is the future 24-hour-ahead solar irradiance forecasts. SolarSeer can serve as a foundation 
-model for solar PV power generation forecasting. 
+model for solar PV power generation forecasting. The network structure of SolarSeer is as follows:
 
-The network structure of SolarSeer is as follows:
 <img width="514" height="567" alt="image" src="https://github.com/user-attachments/assets/a8621cc2-e80b-4b3a-bbb2-a3eb03ca55c6" />
 
 For the network of SolarSeer, see 'network/SolarSeerNet.py'.
 
 Inference
+---
 To run the inference code, please follow the steps below:
 
 1. Download the network weights and put it in the "weight" folder.
