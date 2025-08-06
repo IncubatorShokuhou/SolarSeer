@@ -22,7 +22,7 @@ to sustainable, net-zero energy systems.
 
 Network
 ---
-SolarSeer is an end-to-end AI model for 24-hour-ahead solar irradiance forecasting across the USA. The network input is the past 6-hour 
+SolarSeer is an end-to-end AI model trained with 16 MI200 GPUs for 24-hour-ahead solar irradiance forecasting across the USA. The network input is the past 6-hour 
 satellite observations and the future 24-hour clear-sky solar irradiance, where clear-sky solar irradiance is a function of latitude, 
 longtitude and time. The network output is the future 24-hour-ahead solar irradiance forecasts. SolarSeer can serve as a foundation 
 model for solar PV power generation forecasting. The network structure of SolarSeer is as follows:
