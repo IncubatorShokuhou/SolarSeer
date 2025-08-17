@@ -47,12 +47,12 @@ Reference
 ---
 If you find it useful, cite it using:
 
-@article{bai2025solarseer,
+@article{bai2025solarseer,\n
   title={SolarSeer: Ultrafast and accurate 24-hour solar irradiance forecasts 
-                    outperforming numerical weather prediction across the USA},
+                    outperforming numerical weather prediction across the USA},\n
   author={Bai, Mingliang and Fang, Zuliang and Tao, Shengyu and Xiang, Siqi and Bian, 
           Jiang and Xiang, Yanfei and Zhao, Pengcheng and Jin, Weixin 
-          and Weyn, Jonathan A and Dong, Haiyu and others},
-  journal={arXiv preprint arXiv:2508.03590},
-  year={2025}
+          and Weyn, Jonathan A and Dong, Haiyu and others},\n
+  journal={arXiv preprint arXiv:2508.03590},\n
+  year={2025}\n
 }
